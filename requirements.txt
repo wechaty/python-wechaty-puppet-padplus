@@ -1,0 +1,5 @@
+grpclib
+pyee
+requests
+chatie-grpc
+wechaty-puppet
